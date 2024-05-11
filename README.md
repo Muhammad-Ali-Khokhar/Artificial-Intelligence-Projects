@@ -8,6 +8,10 @@ This repository contains various artificial intelligence projects implemented us
 - A chatbot implemented using the NLTK library for natural language processing.
 - Features include responding to user queries, scheduling appointments, canceling appointments, and showing scheduled appointments.
 
+### 2. Car Detection: Car Detection Model
+- Car detection model trained using tensorflow.
+- Features include detecting a car within a image and creating boundary around it.
+
 ## Usage
 
 Each project folder contains the necessary files and instructions to run the project locally. Follow the instructions in each project's README file to set up and run the project on your machine.
